@@ -1,11 +1,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2096F3&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Adrigm+%F0%9F%91%8B;Backend+Developer;Java+%26+Spring+Boot;Clean+Architecture+Enthusiast" alt="Typing SVG" />
-  
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=adrigm06&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" alt="adrigm06 trophies" />
-    </a>
-  </p>
 </div>
 
 ---
