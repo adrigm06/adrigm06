@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2096F3&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Adrigm+%F0%9F%91%8B;Backend+Developer;Java+%26+Spring+Boot;Kotlin" alt="Typing SVG" />
 </div>
 
-<!-- Badges and Social -->
-<p align="center">
-  <a href="https://github.com/adrigm06"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.npmjs.com/~adrigm06"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/></a>
-</p>
-
 ---
 
 ## 👨‍💻 About me
